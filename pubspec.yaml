@@ -23,11 +23,12 @@ flutter:
 
   uses-material-design: true
 
-assets:
-  - assets/
+  assets:
+    - assets/
+    - assets/images/
 
-fonts:
-  - family: Billabong
-    fonts:  
-      - asset: assets/fonts/Billabong.ttf
+  fonts:
+    - family: Billabong
+      fonts:  
+        - asset: assets/fonts/Billabong.ttf
 

@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:instagram/loginscreen.dart';
+import 'homepage.dart';
 
 void main() => runApp(App());
 

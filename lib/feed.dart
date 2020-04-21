@@ -7,16 +7,16 @@ class Feed extends StatelessWidget {
   final List<Story> _stories = [
     Story(
         "https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "Adella"),
+        "Hiren"),
     Story(
         "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-        "Ralph"),
+        "Akash"),
     Story(
         "https://images.pexels.com/photos/1024311/pexels-photo-1024311.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-        "Dale"),
+        "Manish"),
     Story(
         "https://images.pexels.com/photos/1372134/pexels-photo-1372134.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "Reanna"),
+        "Rajesh"),
     Story(
         "https://images.pexels.com/photos/1043474/pexels-photo-1043474.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
         "Adrianna"),
@@ -51,28 +51,28 @@ class Feed extends StatelessWidget {
 
   final List<Post> posts = [
     Post(
-        username: "Emerald",
+        username: "Hiren Shinde",
         userImage:
             'https://s3.amazonaws.com/uifaces/faces/twitter/nicklacke/128.jpg',
         postImage:
             "https://images.pexels.com/photos/313782/pexels-photo-313782.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         caption: "Ut rerum nam."),
     Post(
-        username: "Millie",
+        username: "Gaurang Sharma",
         userImage:
             "https://s3.amazonaws.com/uifaces/faces/twitter/mymyboy/128.jpg",
         postImage:
             "https://images.pexels.com/photos/1033729/pexels-photo-1033729.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         caption: "Ut rerum nam."),
     Post(
-        username: "Elfrieda",
+        username: "Bhuvnesh",
         userImage:
             "https://s3.amazonaws.com/uifaces/faces/twitter/pierrestoffe/128.jpg",
         postImage:
             "https://images.pexels.com/photos/1763075/pexels-photo-1763075.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         caption: "Ut rerum nam."),
     Post(
-        username: "Jordan",
+        username: "Manish",
         userImage:
             "https://s3.amazonaws.com/uifaces/faces/twitter/kinday/128.jpg",
         postImage:
