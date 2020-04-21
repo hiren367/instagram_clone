@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "823021006051",
+    "firebase_url": "https://flexcy-c12f2.firebaseio.com",
+    "project_id": "flexcy-c12f2",
+    "storage_bucket": "flexcy-c12f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823021006051:android:e7cb0e6d33af0ddedd69d6",
+        "android_client_info": {
+          "package_name": "com.example.instagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "823021006051-5vq62j0vmjvact5h4je918vb14pmo8ij.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.instagram",
+            "certificate_hash": "ab56ea7fd2586421a7f5e6de09836c0547d98fec"
+          }
+        },
+        {
+          "client_id": "823021006051-5ud9otefbus10u25qs9p88mschh35873.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDORg4yv0ys9mrx4yXfnZdwSbX-zYvkEl4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "823021006051-5ud9otefbus10u25qs9p88mschh35873.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
